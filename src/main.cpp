@@ -1,7 +1,7 @@
 /*******************************************************************
     The sketch uses the Blynk library to control the colors.
 
-    DaveCalaway & MakeITModena
+    MakeITModena
  *******************************************************************/
 #define BLYNK_PRINT Serial
 
